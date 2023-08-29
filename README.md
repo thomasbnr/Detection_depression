@@ -6,4 +6,12 @@ Ce projet regroupe l'ensemble des jeux de données et des scripts réalisés dan
 Vous trouvez le lien du drive contenant les différents jeux de données dans le mémoire directement.
 
 # Exécution 
+Il est important de suivre un ordre précis, qui est le suivant : 
+
+* dataformation1.ipynb
+* dataformation2.ipynb
+* dataformation3.ipynb
+* pre_processing.ipynb
+* algorithmes.ipynb
+  
 Vous avez la possibilité d'importer les fichiers dans Google Colab ou bien de regarder directement les résulats dans les fichiers, sur ce GitHub
