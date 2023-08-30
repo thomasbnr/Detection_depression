@@ -1,5 +1,5 @@
 # Detection_depression
-Ce projet regroupe l'ensemble des jeux de données et des scripts réalisés dans le cadre de mon projet de fin d'étude sur l'utilisation de l'intelligence artificielle dans la détection de la dépression, chez les utilisateurs des réseaux sociaux 
+Ce projet regroupe l'ensemble des scripts réalisés dans le cadre de mon projet de fin d'étude sur l'utilisation de l'intelligence artificielle dans la détection de la dépression, chez les utilisateurs des réseaux sociaux 
 
 
 # Important
@@ -14,4 +14,4 @@ Il est important de suivre un ordre précis, qui est le suivant :
 * pre_processing.ipynb
 * algorithmes.ipynb
   
-Vous avez la possibilité d'importer les fichiers dans Google Colab ou bien de regarder directement les résulats dans les fichiers, sur ce GitHub
+Vous avez la possibilité d'importer les fichiers dans Google Colab ou bien de regarder directement les résulats dans les fichiers, sur ce GitHub.
